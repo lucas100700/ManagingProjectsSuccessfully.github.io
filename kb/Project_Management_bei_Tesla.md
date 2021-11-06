@@ -26,7 +26,7 @@ Durch den agilen Ansatz, bietet Tesla seinen Kunden z.B. neue Softwarefeatures s
 
 ## Scrum in der Fertigung von Autos 
 
-Tesla ist eines das erste Unternehmen, welches die agile Projektmanagementmethode [Scrum](ManagingProjectsSuccessfully.github.io/kb/SCRUM.md) für die Fertigung seiner Autos einsetzt. 
+Tesla ist eines das erste Unternehmen, welches die agile Projektmanagementmethode [Scrum](ManagingProjectsSuccessfully.github.io/kb/SCRUM.md) auch für die Fertigung seiner Autos einsetzt. 
 
 
 <img src="https://user-images.githubusercontent.com/92781586/140620213-cf3c2493-bea7-424c-973e-12aa1d056c2d.png" width="450" height="220" alt="Scrum im Fahrzeugbau" align="middle">
